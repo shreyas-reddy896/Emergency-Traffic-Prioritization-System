@@ -134,7 +134,7 @@ python3 app.py
 
 ---
 ## 🙌 Team
-
+* Shreyas Sridhar
 * Shreyas H Reddy
 * Sanju John
 * Shrinikethan S
